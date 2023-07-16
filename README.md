@@ -1,2 +1,2 @@
 # supreme-working
-record daily coding
+Record daily coding
